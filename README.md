@@ -1,8 +1,8 @@
 # Beautiful Thread Pulses feedback
 
-This private repository collects simple product feedback for Beautiful Thread
-Pulses. Feedback is triaged and enriched by agents before implementation work
-is planned.
+Feedback has moved to the official support repository:
 
-[Share feedback](../../issues/new?template=feedback.yml)
-Simple feedback intake for Beautiful Thread Pulses
+- [Share feedback](https://github.com/saturdaifever/beautiful-thread-pulses-support/issues/new?template=feedback.yml)
+- [Support and documentation](https://github.com/saturdaifever/beautiful-thread-pulses-support)
+
+This repository is archived to preserve existing links.
